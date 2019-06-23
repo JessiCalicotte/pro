@@ -70,7 +70,8 @@ footer-blurb {
 }
 
 .about {
-  font-family: 'fontspring_demo_-_questa_liRg';}
+  font-family: 'fontspring_demo_-_questa_liRg';
+}
 
 @media (max-width: 750px) {
   .footer-blurb {
@@ -91,7 +92,7 @@ h1 {
   font-size:48px;
 }
 
-::selection {
+.selection {
   background-color: #f84342;
 }
 
